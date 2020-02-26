@@ -15,7 +15,7 @@ $ git clone https://github.com/nkchauhan/springBootSecurityJwt
 After running the project on local environment
 
 * http://localhost:8080/authenticate  - Will give you a JWT token
-* http://localhost:8080/hello  - With Authorization as [Bearer <JWT token>]
+* http://localhost:8080/hello  - With Authorization as [Bearer JWTtoken]
 
 
 ## Built With
